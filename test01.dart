@@ -1,7 +1,7 @@
 void main() {
 
   // ! var可以接收任何类型的变量，但是 Dart 中 var 变量一旦赋值，类型便会确定，则不能再改变其类型。
-  var str = '字符';
+  var str = '字符11111';
   // str = 1111; // *  Error: A value of type 'int' can't be assigned to a variable of type 'String'.
   str = '刘可';
   print(str);
